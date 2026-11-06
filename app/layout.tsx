@@ -4,8 +4,9 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Your Name | Portfolio",
-  description: "A portfolio site built with Next.js, TypeScript, and Tailwind CSS.",
+  title: "Othieno Malcom | Portfolio",
+  description:
+    "Portfolio of Othieno Malcom, a web developer building with HTML, CSS, JavaScript, Node.js, and Next.js.",
 };
 
 export default function RootLayout({

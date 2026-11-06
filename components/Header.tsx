@@ -5,7 +5,7 @@ export default function Header() {
     <header className="bg-blue-700 text-white py-4 shadow-md">
       <div className="max-w-4xl mx-auto px-4">
         <div id="header-title" className="text-2xl font-bold mb-2">
-          Your Name
+          Othieno Malcom
         </div>
         <nav aria-label="Main navigation">
           <ul className="flex gap-6">
